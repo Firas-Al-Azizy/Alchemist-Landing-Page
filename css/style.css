@@ -174,11 +174,13 @@ font-weight: bolder;
 #about ul{
   list-style: none;
   padding-top: 20px;
+  text-align: center;
 }
 #about li{
   color:Orange;
   font-weight: bolder;
   padding-top: 20px;
+  text-align: center;
 
 }
 #about h1{
@@ -187,11 +189,11 @@ font-weight: bolder;
   font-weight: bolder;
 
 }
-#about h4{
+#about p{
   color: lightskyblue;
   text-align: center;
   font-weight: bolder;
-  padding-top: 40px;
+  font-size: 40px;
 }
 .row{
   display: flex;
